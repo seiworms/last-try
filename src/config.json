@@ -1,0 +1,23 @@
+{
+    "name":"Seicaca",
+    "description":"nft caca",
+    "website":"website",
+    "twitter":"twitter",
+    "discord":"discord",
+    "rpc":"https://rpc.wallet.pacific-1.sei.io",
+    "network":"pacific-1",
+    "collection_address":"sei1xnk44qxc77sqpla9ndhc5sg4447uzg4mgur5jy2hae4j067u2rlskjdy0s",
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
